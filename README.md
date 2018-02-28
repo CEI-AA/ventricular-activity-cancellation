@@ -1,6 +1,6 @@
 # README #
 
-This README contains information about the repository for the working group on *Ventricular Activity Cancellation*.
+This README contains information about the repository for the CEI working group on *Ventricular Activity Cancellation*.
 
 ### What is this repository for? ###
 
